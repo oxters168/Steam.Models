@@ -1,3 +1,4 @@
+*.meta
 App_Data/
 *.mdf
 *.ldf
